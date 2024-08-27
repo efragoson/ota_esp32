@@ -22,7 +22,7 @@ def mostrar(s):
     oled.text('Hello, World 3!', s, 20)
     oled.text('Hello, World 4!', s, 30)
     oled.text('Hello, World 5!', s, 40)
-    oled.text('Epale!', s, 50) 
+    oled.text('Hello, World 6!', s, 50) 
     oled.show()
 
 scroll = -128
